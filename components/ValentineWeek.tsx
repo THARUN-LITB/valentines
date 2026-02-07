@@ -15,7 +15,7 @@ const DAYS = [
     name: "Rose Day",
     date: "Feb 7",
     img: "/valentine/rose.jpg",
-    text: "A rose for the most beautiful person in my life 🌹",
+    text: "A rose can't describe what the love behind the blood of the heart is, but your love shows the reason it exists. 🌹",
     theme: {
       bg: "from-rose-100 via-red-100 to-rose-200",
       icon: "🌹",
@@ -27,7 +27,7 @@ const DAYS = [
     name: "Propose Day",
     date: "Feb 8",
     img: "/valentine/propose.jpg",
-    text: "Will you be my player 2 forever? 💍",
+    text: "Will you be my heart, which my soul wants to carry throughout the lives? 💍",
     theme: {
       bg: "from-blue-100 via-indigo-100 to-purple-200",
       icon: "💍",
@@ -39,7 +39,7 @@ const DAYS = [
     name: "Chocolate Day",
     date: "Feb 9",
     img: "/valentine/chocolate.jpg",
-    text: "Life is sweeter with you 🍫",
+    text: "Life is sweeter with you and nothing ever felt more sweeter then my sweetheart 🍫",
     theme: {
       bg: "from-amber-100 via-orange-100 to-yellow-200",
       icon: "🍫",
@@ -51,7 +51,7 @@ const DAYS = [
     name: "Teddy Day",
     date: "Feb 10",
     img: "/valentine/teddy.jpg",
-    text: "Sending you the warmest hug 🧸",
+    text: "waiting for the days, to have this cutie teddybear for my lifelong 🧸",
     theme: {
       bg: "from-orange-50 via-red-50 to-pink-100",
       icon: "🧸",
@@ -63,7 +63,7 @@ const DAYS = [
     name: "Promise Day",
     date: "Feb 11",
     img: "/valentine/promise.jpg",
-    text: "Forever with you, no matter what 🤝",
+    text: "Forever with you, no matter what, I'll be yours, and your mine forever ❤️",
     theme: {
       bg: "from-sky-100 via-blue-100 to-cyan-200",
       icon: "🤞",
@@ -75,7 +75,7 @@ const DAYS = [
     name: "Hug Day",
     date: "Feb 12",
     img: "/valentine/hug.jpg",
-    text: "Come hereee 🤗",
+    text: "waiting to have a lifelong cuddle with my cutie 🤗",
     theme: {
       bg: "from-pink-100 via-rose-100 to-fuchsia-200",
       icon: "🤗",
@@ -87,10 +87,10 @@ const DAYS = [
     name: "Kiss Day",
     date: "Feb 13",
     img: "/valentine/kiss.jpg",
-    text: "Sealed with love 💋",
+    text: "Not gonna ask, but aslo waiting for this is in future 😘",
     theme: {
       bg: "from-red-100 via-rose-200 to-red-300",
-      icon: "💋",
+      icon: "😘",
       textColor: "text-red-600",
       btnColor: "bg-red-500 hover:bg-red-600 shadow-red-200",
     },

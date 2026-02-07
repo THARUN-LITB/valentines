@@ -9,19 +9,19 @@ interface QuizProps {
 const QUESTIONS = [
   {
     question: "Who is the absolute 'boss' in this relationship 👑?",
-    options: ["Obviously You", "No", "My Mom"],
+    options: ["Obviously You", "No one", "Me"],
     correct: 0,
     successMsg: "That's right! I know my place 😉"
   },
   {
-    question: "Who fights a lot in this relationship 🥊?",
-    options: ["Always You", "No One", "Me"],
+    question: "What's my fav thing in owr relationship 🫣?",
+    options: ["my girl", "Nothing", "don't know"],
     correct: 0, // In the video "Always You" is selected
-    successMsg: "Hehe, sorry about that! 😅"
+    successMsg: "Hehe,your right my girl! 😅"
   },
   {
     question: "Where do I plan to spend the rest of my life 🏡?",
-    options: ["Paris", "In Your Heart", "On Mars"],
+    options: ["Paris", "In Your Heart", "whole world"],
     correct: 1,
     successMsg: "Exactly where I belong! ❤️"
   }
@@ -53,7 +53,7 @@ export default function Quiz({ onBack }: QuizProps) {
         }
       }, 2000);
     } else {
-      setFeedback("Opps! Try again 😜");
+      setFeedback("hehehe not that 😅");
       // Shake effect can be added here
       setTimeout(() => {
         setSelectedOption(null);
